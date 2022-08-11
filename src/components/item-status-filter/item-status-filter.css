@@ -1,0 +1,9 @@
+.btn-group{
+    display: flex;
+
+}
+.btn.btn-outline-secondaru {
+    margin-right: 0;
+    border: 1px solid gray;
+    color: gray;
+}

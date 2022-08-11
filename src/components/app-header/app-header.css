@@ -1,0 +1,14 @@
+.app-header{
+    display: flex;
+    align-items: flex-end;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: rgb(121, 167, 206);
+}
+.app-header h1{
+    flex-grow: 1;
+}
+.app-header h2{
+    font-size: 1.2rem;
+    color: rgb(247, 247, 247);
+}

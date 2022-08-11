@@ -1,0 +1,13 @@
+.item-add-form{
+    width: 100%;
+    display: flex;
+    margin-top: 10px;
+}
+.btn.btn-outline-secondary{
+    margin-right: 10px;
+    width: 40%;
+}
+.item-add-form input{
+    margin-right: 3px;
+    margin-left: 10px;
+}
